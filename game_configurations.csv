@@ -1,0 +1,11 @@
+version,secret_word,preset_guesses,max_guesses
+1,panda,"apple,banana,penguin",10
+2,dog,"cat,hamster,rabbit",10
+3,house,"building,cottage,shack",10
+4,astronomy,"cosmology,bread,painting",10
+5,quantum,"physics,desert,shoe",10
+6,evolution,"biology,piano,library",10
+7,cryptography,"encryption,river,sunset",10
+8,philosophy,"ethics,sandwich,blanket",10
+9,artificial,"intelligence,mountain,forest",10
+10,democracy,"government,guitar,cup",10
